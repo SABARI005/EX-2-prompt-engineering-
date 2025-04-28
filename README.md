@@ -7,6 +7,9 @@ REG N0: 212222240085
 Prompting in Generative AI refers to the method of instructing a language model to produce a desired output by giving it specific input text. It acts as the guiding question or command that informs the model what task to perform or how to respond. There are various prompting techniques ranging from simple direct commands to complex, structured prompts for better control and accuracy. Prompting is crucial in controlling the quality, relevance, and depth of the AI-generated responses, especially in real-world applications like summarization, translation, or coding.
 
 ## 2. Types of Prompting Patterns
+![0_YkSY4lBq5Kl8nZ1v](https://github.com/user-attachments/assets/b3391411-ce9a-47bd-b917-5ef57de0c45b)
+
+
 Prompting patterns can be broadly categorized into basic prompts and advanced prompts with varied structure and context levels:
 
 Basic Prompts: These are short, direct, and often unstructured instructions like “Write a story” or “Translate this sentence.” They are easy to generate but may lack precision in the output, leading to vague or off-topic results.
@@ -41,6 +44,8 @@ In each case, the same model was used to generate responses under identical temp
 ## 4. Evaluation Metrics for Prompt Quality
 We evaluated the responses from each prompt pattern using three major qualitative dimensions:
 
+![Top-5-LLM-Evaluation-Metrics-1](https://github.com/user-attachments/assets/48663e98-30a5-4ae1-9a08-3994acee75bc)
+
 Quality: Assessed based on grammar, structure, coherence, and professionalism of the output. Refined and chain-of-thought prompts produced the highest-quality responses.
 
 Accuracy: Measured by comparing the factual correctness of the response to known standards or ground truth. Few-shot and structured prompts showed significantly better accuracy in tasks like translation and reasoning.
@@ -71,6 +76,9 @@ Prompting does not guarantee ethical responses and may still carry biases learne
 Manual crafting of refined prompts is time-consuming and requires domain expertise.
 
 ## 8. Future Improvements in Prompt Engineering
+![recent_trends_and_opportunities_in_prompt_engineering_introduction_pdf_slide01](https://github.com/user-attachments/assets/6211505d-53ae-428b-9738-e82be3348123)
+
+
 Development of automated prompt optimization tools using reinforcement learning or AI-guided tuning.
 
 Creation of prompt libraries or templates for various domains to reduce human effort in crafting high-quality instructions.
